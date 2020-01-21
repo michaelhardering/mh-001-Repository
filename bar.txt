@@ -1,0 +1,7 @@
+++++++++++++++++++++++++++++++++++
+++ bar - test 
+
+   C:\Users\michael.hadering\Documents\xMyGitProjekte
+
+   /c/Users/michael.hadering/Documents/xMyGitProjekte
+
