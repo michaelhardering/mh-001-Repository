@@ -4,3 +4,5 @@
    C:\Users\michael.hadering\Documents\xMyGitProjekte
 
    /c/Users/michael.hadering/Documents/xMyGitProjekte
+
+    mh002-Commit-21.01.2020 16:15 Uhr
