@@ -1,0 +1,12 @@
+
++++++++++++++++++++++++++++++++++++++++
+++ tst.txt 
+
+
+Version 1: 23.01.2020 09:20 
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        tst.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")

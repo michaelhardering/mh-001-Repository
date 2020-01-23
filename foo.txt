@@ -5,4 +5,8 @@
 
    /c/Users/michael.hadering/Documents/xMyGitProjekte
 
+
+    SuperLink: http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/ch02.html
+
+
     mh002-Commit-21.01.2020 16:15 Uhr

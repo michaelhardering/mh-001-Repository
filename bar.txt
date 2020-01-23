@@ -5,3 +5,12 @@
 
    /c/Users/michael.hadering/Documents/xMyGitProjekte
 
+
+    SuperLink: http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/ch02.html
+
+
+
+cd C:/Users/michael.hadering/Documents/xMyGitProjekte
+cd C:/Users/michael.hadering/Documents/xMyGitProjekte -- funzt
+cd /c/Users/michael.hadering/Documents/xMyGitProjekte -- funzt
+
